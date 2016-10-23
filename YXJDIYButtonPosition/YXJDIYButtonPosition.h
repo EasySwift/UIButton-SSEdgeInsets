@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+#import "UIButton+SSEdgeInsets.h"
+
 //! Project version number for YXJDIYButtonPosition.
 FOUNDATION_EXPORT double YXJDIYButtonPositionVersionNumber;
 

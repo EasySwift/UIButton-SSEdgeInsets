@@ -156,9 +156,9 @@
 		DE44BC3E1D9D7CB900AE68C7 /* YXJDIYButtonPosition */ = {
 			isa = PBXGroup;
 			children = (
+				DE44BC3F1D9D7CB900AE68C7 /* YXJDIYButtonPosition.h */,
 				00F5AA921BFC436000D5D8CD /* UIButton+SSEdgeInsets.h */,
 				00F5AA931BFC436000D5D8CD /* UIButton+SSEdgeInsets.m */,
-				DE44BC3F1D9D7CB900AE68C7 /* YXJDIYButtonPosition.h */,
 				DE44BC401D9D7CB900AE68C7 /* Info.plist */,
 			);
 			path = YXJDIYButtonPosition;
@@ -590,6 +590,7 @@
 				DE44BC471D9D7CB900AE68C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
